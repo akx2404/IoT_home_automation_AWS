@@ -13,8 +13,8 @@ It connects to AWS IoT server then:
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Akx";
-const char* password = "akxakx@giis";
+const char* ssid = "";
+const char* password = "";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP, "pool.ntp.org");
