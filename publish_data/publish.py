@@ -4,7 +4,7 @@ import time as t
 import json
 
 # Define ENDPOINT, CLIENT_ID, PATH_TO_CERT, PATH_TO_KEY, PATH_TO_ROOT, MESSAGE, TOPIC, and RANGE
-ENDPOINT = "a3idduyxut8qzd-ats.iot.us-east-2.amazonaws.com"
+ENDPOINT = "####"
 CLIENT_ID = "Esp8266_led_control"
 PATH_TO_CERT = "certificates/509f09039b-certificate.pem.crt"
 PATH_TO_KEY = "certificates/509f09039b-private.pem.key"
