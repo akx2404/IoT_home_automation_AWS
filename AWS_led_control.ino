@@ -2,7 +2,7 @@
 /*
  * AWS LED control program 
 It connects to AWS IoT server then:
-  - subscribes to the topic "inTopic", and perfprm the action according to the data recieved from the AS
+  - subscribes to the topic "inTopic", and performs the action according to the data recieved from the AS
 */
 
 #include "FS.h"
